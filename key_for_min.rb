@@ -7,5 +7,4 @@ def key_for_min_value(name_hash)
     i==0||value<i ? i=value
   end
   i
-  end
 end
